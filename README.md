@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aiHelpmate/bilingual-sentiment-analysis.git
+   git clone https://github.com/aiHelpmate/Bilingual-Sentiment-Analysis.git
    cd bilingual-sentiment-analysis
    ```
 
