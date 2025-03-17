@@ -13,7 +13,6 @@ This repository contains a comprehensive implementation of a bilingual sentiment
   - [Sentiment Analysis](#sentiment-analysis)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
