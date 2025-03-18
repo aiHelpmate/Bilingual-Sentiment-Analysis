@@ -1,6 +1,6 @@
 #  Machine Translation and Sentiment Analysis
 
-This repository contains a comprehensive implementation of a bilingual sentiment analysis and machine translation system. The project leverages deep learning techniques, specifically Sequence-to-Sequence (Seq2Seq) models for machine translation and Long Short-Term Memory (LSTM) networks for sentiment analysis. The system is capable of translating text between English and Chinese and analyzing the sentiment of the translated text.
+Hi, I am a freshman at XJTLU, and I am very interested in conducting NLP related research. This repository contains a comprehensive implementation of a bilingual sentiment analysis and machine translation system. The project leverages deep learning techniques, specifically Sequence-to-Sequence (Seq2Seq) models for machine translation and Long Short-Term Memory (LSTM) networks for sentiment analysis. The system is capable of translating text between English and Chinese and analyzing the sentiment of the translated text.
 
 ## Table of Contents
 
