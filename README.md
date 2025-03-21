@@ -86,7 +86,7 @@ The sentiment analysis model uses an LSTM network to classify the sentiment of t
 
 ## Results
 
-The machine translation model achieves high accuracy in translating text between English and Chinese. The sentiment analysis model achieves an accuracy of approximately 68% on the validation set, with precision, recall, and F1 scores indicating robust performance across all sentiment categories.
+The machine translation model achieved high accuracy in English Chinese text translation, while only 68% accuracy was achieved in the sentiment analysis model, mainly because it is difficult to find suitable content for the \textbf{five sentiment analysis data}. When only conducting positive and negative sentiment analysis, the accuracy can reach around 90%.
 
 ### Example Output
 
